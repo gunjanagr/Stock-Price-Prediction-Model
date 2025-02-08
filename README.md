@@ -22,7 +22,7 @@ A data analysis project implementing ARIMA and LSTM models for stock price forec
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/gunjanagr/stock-price-prediction-model.git
+git clone https://github.com/gunjanagr/Stock-Price-Prediction-Model.git
 cd stock-price-prediction
 ```
 
